@@ -1,0 +1,6 @@
+19:06:26.932 [TestNG-tests-2] INFO  Academy.ValidateNavigationBar - Entry to validate navigation Bar class
+19:06:27.044 [TestNG-tests-2] INFO  Academy.ValidateNavigationBar - Navigation bar is present
+13:55:22.903 [TestNG-tests-4] INFO  Academy.HomePage - Entry to homepage class
+13:55:32.163 [TestNG-tests-2] INFO  Academy.ValidateNavigationBar - Entry to validate navigation Bar class
+13:55:35.178 [TestNG-tests-2] INFO  Academy.ValidateNavigationBar - Navigation bar is present
+13:55:40.032 [TestNG-tests-3] INFO  Academy.ValidateTitle - Entry to Validate Test class

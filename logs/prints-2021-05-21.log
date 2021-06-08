@@ -1,0 +1,7 @@
+19:02:55.012 [TestNG-tests-2] INFO  Academy.ValidateNavigationBar - Navigation bar is present
+19:02:56.473 [TestNG-tests-4] INFO  Academy.HomePage - Non Restricted user
+19:03:01.665 [TestNG-tests-4] INFO  Academy.HomePage - Restricted user
+19:05:52.854 [TestNG-tests-4] INFO  Academy.HomePage - Entry to homepage class
+19:06:09.174 [TestNG-tests-3] INFO  Academy.ValidateTitle - Entry to Validate Test class
+19:06:12.797 [TestNG-tests-4] INFO  Academy.HomePage - Non Restricted user
+19:06:18.907 [TestNG-tests-4] INFO  Academy.HomePage - Restricted user
